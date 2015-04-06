@@ -7,8 +7,6 @@ class ReserveInputPage extends Page {
 
 	//ページのURL
 	static File htmlFile = new File("reserveApp/index.html")
-
-	//ページのURL
 	static url = 'file:///' + htmlFile.getAbsolutePath().toString().replaceAll("\\\\","/")
 
 	//ページタイトル
