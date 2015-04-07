@@ -2,8 +2,8 @@
 
 １．[本サイト](https://github.com/ma-nagai/20150411_PI_Study)を開く  
   
-２．「Download Zip」クリックし、ダウンロードした「20150411_PI_Study.zip」を解凍する。  
-　　（ここではC:\20150411_PI_Studyに解凍）  
+２．「Download Zip」クリックし、ダウンロードした「20150411_PI_Study-master.zip」を解凍する。  
+　　（ここではC:\20150411_PI_Study-masterに解凍）  
   
 ３．「StarHotel」プロジェクトをeclipseに追加  
 　　※eclipseを起動し、下記の順番でプロジェクトを追加する  
