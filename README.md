@@ -1,27 +1,27 @@
 # 20150411_PIStudy
 
-‚PD–{ƒTƒCƒgihttps://github.com/ma-nagai/PI_Study_Prej‚ðŠJ‚­  
+ï¼‘ï¼Ž[æœ¬ã‚µã‚¤ãƒˆ](https://github.com/ma-nagai/20150411_PI_Study)ã‚’é–‹ã  
   
-‚QDuDownload ZipvƒNƒŠƒbƒN‚µAƒ_ƒEƒ“ƒ[ƒh‚µ‚½uPI_Study_Pre-master.zipv‚ð‰ð“€‚·‚éB  
-@@i‚±‚±‚Å‚ÍC:\PI_Study_Pre-master‚É‰ð“€j  
+ï¼’ï¼Žã€ŒDownload Zipã€ã‚¯ãƒªãƒƒã‚¯ã—ã€ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ãŸã€Œ20150411_PI_Study-master.zipã€ã‚’è§£å‡ã™ã‚‹ã€‚  
+ã€€ã€€ï¼ˆã“ã“ã§ã¯C:\20150411_PI_Study-masterã«è§£å‡ï¼‰  
   
-‚RDuStarHotelvƒvƒƒWƒFƒNƒg‚ðeclipse‚É’Ç‰Á  
-@@¦eclipse‚ð‹N“®‚µA‰º‹L‚Ì‡”Ô‚ÅƒvƒƒWƒFƒNƒg‚ð’Ç‰Á‚·‚é  
-@@‡@ƒƒjƒ…[‚©‚çuƒtƒ@ƒCƒ‹„V‹K„Groovy Projectv‡‚ÅƒNƒŠƒbƒN  
-@@‡AƒfƒtƒHƒ‹ƒgEƒƒP[ƒVƒ‡ƒ“‚ðŽg—p‚Ìƒ`ƒFƒbƒN‚ðŠO‚µAuŽQÆv‚ðƒNƒŠƒbƒN  
-@@‡B‚QD‚Å‰ð“€‚µ‚½ƒtƒHƒ‹ƒ_’†‚ÌuStarHotelv‚ðŽw’è‚µ‚ÄuŠ®—¹v‚ðƒNƒŠƒbƒN  
-@@‡Celcipse‚É’Ç‰Á‚³‚ê‚½uStarHotelv‚ð‰EƒNƒŠƒbƒN‚µAu\¬v„uMavenƒvƒƒWƒFƒNƒg‚Ö•ÏŠ·v‚ðƒNƒŠƒbƒN  
-@@‡Delcipse‚É’Ç‰Á‚³‚ê‚½uStarHotelv‚ð‰EƒNƒŠƒbƒN‚µAuƒrƒ‹ƒhEƒpƒX„ƒrƒ‹ƒhEƒpƒX‚Ì\¬v‚ðƒNƒŠƒbƒN  
-@@‡EuJREƒVƒXƒeƒ€Eƒ‰ƒCƒuƒ‰ƒŠ[v‚ðƒ_ƒuƒ‹ƒNƒŠƒbƒN‚µAŽÀsŠÂ‹«‚ðjava7‚É•ÏX‚µ‚ÄŠ®—¹‚·‚é  
-@@‡FŠJ‚¢‚½ƒvƒƒpƒeƒB‚ð•Â‚¶‚é  
+ï¼“ï¼Žã€ŒStarHotelã€ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’eclipseã«è¿½åŠ   
+ã€€ã€€â€»eclipseã‚’èµ·å‹•ã—ã€ä¸‹è¨˜ã®é †ç•ªã§ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’è¿½åŠ ã™ã‚‹  
+ã€€ã€€â‘ ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‹ã‚‰ã€Œãƒ•ã‚¡ã‚¤ãƒ«ï¼žæ–°è¦ï¼žGroovy Projectã€é †ã§ã‚¯ãƒªãƒƒã‚¯  
+ã€€ã€€â‘¡ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆãƒ»ãƒ­ã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚’ä½¿ç”¨ã®ãƒã‚§ãƒƒã‚¯ã‚’å¤–ã—ã€ã€Œå‚ç…§ã€ã‚’ã‚¯ãƒªãƒƒã‚¯  
+ã€€ã€€â‘¢ï¼’ï¼Žã§è§£å‡ã—ãŸãƒ•ã‚©ãƒ«ãƒ€ä¸­ã®ã€ŒStarHotelã€ã‚’æŒ‡å®šã—ã¦ã€Œå®Œäº†ã€ã‚’ã‚¯ãƒªãƒƒã‚¯  
+ã€€ã€€â‘£elcipseã«è¿½åŠ ã•ã‚ŒãŸã€ŒStarHotelã€ã‚’å³ã‚¯ãƒªãƒƒã‚¯ã—ã€ã€Œæ§‹æˆã€ï¼žã€ŒMavenãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã¸å¤‰æ›ã€ã‚’ã‚¯ãƒªãƒƒã‚¯  
+ã€€ã€€â‘¤elcipseã«è¿½åŠ ã•ã‚ŒãŸã€ŒStarHotelã€ã‚’å³ã‚¯ãƒªãƒƒã‚¯ã—ã€ã€Œãƒ“ãƒ«ãƒ‰ãƒ»ãƒ‘ã‚¹ï¼žãƒ“ãƒ«ãƒ‰ãƒ»ãƒ‘ã‚¹ã®æ§‹æˆã€ã‚’ã‚¯ãƒªãƒƒã‚¯  
+ã€€ã€€â‘¥ã€ŒJREã‚·ã‚¹ãƒ†ãƒ ãƒ»ãƒ©ã‚¤ãƒ–ãƒ©ãƒªãƒ¼ã€ã‚’ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã—ã€å®Ÿè¡Œç’°å¢ƒã‚’java7ã«å¤‰æ›´ã—ã¦å®Œäº†ã™ã‚‹  
+ã€€ã€€â‘¦é–‹ã„ãŸãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã‚’é–‰ã˜ã‚‹  
   
-‚SDuStarHotel_RenewvƒvƒƒWƒFƒNƒg‚ðeclipse‚É’Ç‰Á  
-@@¦‚RD‚ÌŽè‡‚Æ“¯—l‚ÉuStarHotel_Renewv‚ð’Ç‰Á‚·‚é  
+ï¼”ï¼Žã€ŒStarHotel_Renewã€ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã‚’eclipseã«è¿½åŠ   
+ã€€ã€€â€»ï¼“ï¼Žã®æ‰‹é †ã¨åŒæ§˜ã«ã€ŒStarHotel_Renewã€ã‚’è¿½åŠ ã™ã‚‹  
   
-‚TD“®ìŠm”F  
-@@‡@uReserveInputMain.groovyv‚ð‰EƒNƒŠƒbƒN‚µAuŽÀs„Groovy Scriptv‚ÅŽÀs‚·‚éB  
-@@‡Afirefoxƒuƒ‰ƒEƒU‚ª—§‚¿ã‚ª‚èAh”‘“ú‚Ì”N‚Ì“ü—Íƒ{ƒbƒNƒX‚ÉƒJ[ƒ\ƒ‹‚ªŽ~‚Ü‚Á‚Ä‚¢‚é‚±‚Æ‚ðŠm”F‚Å‚«‚ê‚ÎŠ®—¹‚Å‚·B  
+ï¼•ï¼Žå‹•ä½œç¢ºèª  
+ã€€ã€€â‘ ã€ŒReserveInputMain.groovyã€ã‚’å³ã‚¯ãƒªãƒƒã‚¯ã—ã€ã€Œå®Ÿè¡Œï¼žGroovy Scriptã€ã§å®Ÿè¡Œã™ã‚‹ã€‚  
+ã€€ã€€â‘¡firefoxãƒ–ãƒ©ã‚¦ã‚¶ãŒç«‹ã¡ä¸ŠãŒã‚Šã€å®¿æ³Šæ—¥ã®å¹´ã®å…¥åŠ›ãƒœãƒƒã‚¯ã‚¹ã«ã‚«ãƒ¼ã‚½ãƒ«ãŒæ­¢ã¾ã£ã¦ã„ã‚‹ã“ã¨ã‚’ç¢ºèªã§ãã‚Œã°å®Œäº†ã§ã™ã€‚  
   
   
-¦u‹`—p‚Ì‹³Þ‚Ìˆê•”‚ÉˆÈ‰º‚ðŽg—p‚³‚¹‚Ä’¸‚¢‚Ä‚¢‚Ü‚·  
+â€»è¬›ç¾©ç”¨ã®æ•™æã®ä¸€éƒ¨ã«ä»¥ä¸‹ã‚’ä½¿ç”¨ã•ã›ã¦é ‚ã„ã¦ã„ã¾ã™  
 https://sites.google.com/site/testautomationresearch/teaching_materials  
